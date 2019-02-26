@@ -15,4 +15,7 @@
 ### 7.1 MySQL数据库集群安装
 ### 7.2 Oracle数据库集群安装
 
+
+* [电商项目虚拟主机的配置](https://blog.csdn.net/fanyao4144/article/details/78959171)
+
 #
